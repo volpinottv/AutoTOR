@@ -23,4 +23,5 @@ or just run autoTor it will install everything
 7 : go to your browser / pc  change sock proxy to 127.0.0.1:9050
 
 8 : DONE!
+
 ![Immagine 2022-12-18 135922](https://user-images.githubusercontent.com/108951418/208300435-49b0cd2f-b8e6-47bb-9a3e-c8cde8c531df.png)
