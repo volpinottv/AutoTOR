@@ -1,4 +1,4 @@
-# Auto VPN V 1.0 (italian tool)
+# Auto VPN V 1.0
 
 how to install this tools :
 
