@@ -1,5 +1,7 @@
 # Auto VPN V 1.0
 
+ONLY KALI LINUX!!!
+
 How to install this tools
 
 1 : git clone https://github.com/volpinottv/AutoVPN
