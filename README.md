@@ -8,7 +8,7 @@ How to install this tools
 
 3 : python3 install.py
 
-4 : in terminal type { aut } any where you want
+4 : in terminal write -> aut
   
 5 : type time to change IP
 
