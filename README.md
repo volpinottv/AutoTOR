@@ -8,7 +8,7 @@ how to install this tools :
   pip3 install requests [socks]
   or just run autoTor it will install everything
 
-1 : git clone 
+1 : git clone https://github.com/volpinottv/AutoVPN
 
 2 : cd AutoVPN
 
@@ -18,7 +18,7 @@ how to install this tools :
   
 5 : type time to change IP
 
-6 : type how many time to change your ip 
+6 : type how many time to change your ip
 
 7 : go to your browser / pc  change sock proxy to 127.0.0.1:9050
 
