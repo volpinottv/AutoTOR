@@ -1,12 +1,6 @@
 # Auto VPN V 1.0
 
-how to install this tools :
-
-requirements:
-
-sudo apt-get install tor
-pip3 install requests [socks]
-or just run autoTor it will install everything
+How to install this tools
 
 1 : git clone https://github.com/volpinottv/AutoVPN
 
@@ -14,7 +8,7 @@ or just run autoTor it will install everything
 
 3 : python3 install.py
 
-4 : interminal type ( aut ) any where you want
+4 : in terminal type { aut } any where you want
   
 5 : type time to change IP
 
