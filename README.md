@@ -2,11 +2,11 @@
 
 how to install this tools :
 
-* : requirements:
+requirements:
 
-  sudo apt-get install tor
-  pip3 install requests [socks]
-  or just run autoTor it will install everything
+sudo apt-get install tor
+pip3 install requests [socks]
+or just run autoTor it will install everything
 
 1 : git clone https://github.com/volpinottv/AutoVPN
 
@@ -23,4 +23,3 @@ how to install this tools :
 7 : go to your browser / pc  change sock proxy to 127.0.0.1:9050
 
 8 : DONE!
-
