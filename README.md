@@ -5,7 +5,7 @@ how to install this tools :
 * : requirements:
 
   sudo apt-get install tor
-  pip3 install requests[socks]
+  pip3 install requests [socks]
   or just run autoTor it will install everything
 
 1 : git clone 
