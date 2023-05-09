@@ -62,30 +62,47 @@ def change():
     os.system("service tor reload")
     print ('\033[1;37m\nIl tuo ip è cambiato in: '+str(ma_ip()))
 
-print('''\033[1;36m\n
- █████╗ ██╗   ██╗████████╗ ██████╗     ████████╗ ██████╗ ██████╗ 
-██╔══██╗██║   ██║╚══██╔══╝██╔═══██╗    ╚══██╔══╝██╔═══██╗██╔══██╗
-███████║██║   ██║   ██║   ██║   ██║       ██║   ██║   ██║██████╔╝
-██╔══██║██║   ██║   ██║   ██║   ██║       ██║   ██║   ██║██╔══██╗
-██║  ██║╚██████╔╝   ██║   ╚██████╔╝       ██║   ╚██████╔╝██║  ██║
-╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝        ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-							   [v1.1]
-					             [By Volpino]
+print('''\033[0;31m\n
+   ▄████████ ███    █▄      ███      ▄██████▄           ███      ▄██████▄     ▄████████ 
+  ███    ███ ███    ███ ▀█████████▄ ███    ███      ▀█████████▄ ███    ███   ███    ███ 
+  ███    ███ ███    ███    ▀███▀▀██ ███    ███         ▀███▀▀██ ███    ███   ███    ███ 
+  ███    ███ ███    ███     ███   ▀ ███    ███          ███   ▀ ███    ███  ▄███▄▄▄▄██▀ 
+▀███████████ ███    ███     ███     ███    ███          ███     ███    ███ ▀▀███▀▀▀▀▀   
+  ███    ███ ███    ███     ███     ███    ███          ███     ███    ███ ▀███████████ 
+  ███    ███ ███    ███     ███     ███    ███          ███     ███    ███   ███    ███ 
+  ███    █▀  ████████▀     ▄████▀    ▀██████▀          ▄████▀    ▀██████▀    ███    ███ 
+                                                                             ███    ███ 
+							                                                    
+oooooo     oooo       .o        .oooo.   
+ `888.     .8'      o888      .dP""Y88b  
+  `888.   .8'        888            ]8P' 
+   `888. .8'         888          .d8P'  
+    `888.8'          888        .dP'     
+     `888'      .o.  888  .o. .oP     .o 
+      `8'       Y8P o888o Y8P 8888888888 
+                            [By Volpino]
+
+https://github.com/volpinottv
+                            
 ''')
-time.sleep(2)
+      
+time.sleep(1)
+input("\033[0;32mNew V-1.2 fast loader update... Press Enter\n")
+
+time.sleep(1)
 print("\033[1;37mBenvenuto su AutoTOR!\n")
 
-time.sleep(3)
-print("\033[1;36mProgramma in avvio. . .\n")
+time.sleep(1)
+print("\033[0;31mProgramma in avvio. . .\n")
 
-time.sleep(6)
+time.sleep(1)
 print("\033[1;37mProgramma avviato con successo!\n")
 
-time.sleep(2)
-print("\033[1;36mCambia la tua proxy in: 127.0.0.1:9050 \n")
+time.sleep(1)
+print("\033[0;31mCambia la tua proxy in: 127.0.0.1:9050 \n")
 os.system("service tor start")
 x = input("\033[1;37mCambio di ip in secondi [esempio: 60] -> ")
-lin = input("\033[1;36m\nQuante volte vuoi cambiare il tuo ip [esempio: 500] cambio ip illimitato digita {0} -> ")
+lin = input("\033[0;31m\nQuante volte vuoi cambiare il tuo ip [esempio: 500] cambio ip illimitato digita {0} -> ")
 
 if int(lin) ==int(0):
 
@@ -95,7 +112,7 @@ if int(lin) ==int(0):
 			change()
 		except KeyboardInterrupt:
 
-		 	print("\033[1;36m\nAutoTOR Chiuso")
+		 	print("\033[0;31m\nAutoTOR Chiuso")
 		 	quit()
 
 else:
