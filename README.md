@@ -1,4 +1,4 @@
-# AutoTOR V-1.2
+# AutoTOR 1.2
 
 How to install this tools
 
