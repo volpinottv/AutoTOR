@@ -1,4 +1,5 @@
 # AutoTOR 1.2
+V-1.2 10/05/2023 00:05
 
 How to install this tools
 
